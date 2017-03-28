@@ -32,6 +32,11 @@ public class JDBC {
      * An example on how to insert with prepared statement. In the SQL code we set a ? as a placement, then afterwards
      * we use the prepared statement to set the ints and Strings. The code is more readable then if we wrote all of it
      * inside the SQL Code.
+     *
+     * Statement VS Prepared Statement
+     *  - Better Performance
+     *  - More readability
+     *  - Set/Use parameters
      * @param emoNo
      * @param empFirstName
      * @param empLastName

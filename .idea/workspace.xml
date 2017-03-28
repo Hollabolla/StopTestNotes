@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eb53152-fa38-4f74-8c8b-aa7a4f00abb9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JDBC.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JDBC.java" afterPath="$PROJECT_DIR$/src/JDBC.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,11 +62,11 @@
       <file leaf-file-name="JDBC.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JDBC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="81" column="1" lean-forward="true" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+            <state relative-caret-position="493">
+              <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
               <folding>
-                <marker date="1490689993423" expanded="true" signature="1467:1510" ph="INSERT INTO employee... " />
-                <marker date="1490689993423" expanded="true" signature="2037:2059" ph="SELECT * FRO... employee" />
+                <marker date="1490692375774" expanded="true" signature="1598:1641" ph="INSERT INTO employee... " />
+                <marker date="1490692375774" expanded="true" signature="2168:2190" ph="SELECT * FRO... employee" />
               </folding>
             </state>
           </provider>
@@ -607,12 +605,12 @@
       <option name="presentableId" value="Default" />
       <updated>1490562816381</updated>
       <workItem from="1490562823186" duration="1835000" />
-      <workItem from="1490688296870" duration="1832000" />
+      <workItem from="1490688296870" duration="2928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3667000" />
+    <option name="totallyTimeSpent" value="4763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -743,11 +741,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JDBC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="81" column="1" lean-forward="true" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+        <state relative-caret-position="493">
+          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
           <folding>
-            <marker date="1490689993423" expanded="true" signature="1467:1510" ph="INSERT INTO employee... " />
-            <marker date="1490689993423" expanded="true" signature="2037:2059" ph="SELECT * FRO... employee" />
+            <marker date="1490692375774" expanded="true" signature="1598:1641" ph="INSERT INTO employee... " />
+            <marker date="1490692375774" expanded="true" signature="2168:2190" ph="SELECT * FRO... employee" />
           </folding>
         </state>
       </provider>
