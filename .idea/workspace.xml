@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eb53152-fa38-4f74-8c8b-aa7a4f00abb9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Enumerations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Recursive.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StopTestNotes/ArraysNotes.class" afterPath="$PROJECT_DIR$/out/production/StopTestNotes/ArraysNotes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StopTestNotes/TestClass.class" afterPath="$PROJECT_DIR$/out/production/StopTestNotes/TestClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Terminology.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ArraysNotes.java" afterPath="$PROJECT_DIR$/src/ArraysNotes.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Recursive.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Recursive.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Recursive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -54,6 +50,46 @@
               <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JDBC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JDBC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+              <folding>
+                <marker date="1490692375774" expanded="true" signature="1598:1641" ph="INSERT INTO employee... " />
+                <marker date="1490692375774" expanded="true" signature="2168:2190" ph="SELECT * FRO... employee" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Terminology.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Terminology.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="56" column="7" lean-forward="false" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.form" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -84,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/Enumerations.java" />
         <option value="$PROJECT_DIR$/src/ArraysNotes.java" />
         <option value="$PROJECT_DIR$/src/Recursive.java" />
+        <option value="$PROJECT_DIR$/src/Terminology.java" />
       </list>
     </option>
   </component>
@@ -125,6 +162,24 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="StopTestNotes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StopTestNotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StopTestNotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.uiDesigner.projectView.FormNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -610,12 +665,12 @@
       <updated>1490562816381</updated>
       <workItem from="1490562823186" duration="1835000" />
       <workItem from="1490688296870" duration="3527000" />
-      <workItem from="1490862534937" duration="3146000" />
+      <workItem from="1490862534937" duration="6017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8508000" />
+    <option name="totallyTimeSpent" value="11379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -821,17 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JDBC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-          <folding>
-            <marker date="1490692375774" expanded="true" signature="1598:1641" ph="INSERT INTO employee... " />
-            <marker date="1490692375774" expanded="true" signature="2168:2190" ph="SELECT * FRO... employee" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ArraysNotes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
@@ -860,6 +904,38 @@
             <element signature="e#111#112#0" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <marker date="1490692375774" expanded="true" signature="1598:1641" ph="INSERT INTO employee... " />
+            <marker date="1490692375774" expanded="true" signature="2168:2190" ph="SELECT * FRO... employee" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Terminology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="56" column="7" lean-forward="false" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
