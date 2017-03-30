@@ -9,6 +9,7 @@ public class ArraysNotes {
 
     /**
      * Show an array with Strings
+     *
      * @param array the array
      */
     public static void showStringArray(String[] array) {
@@ -20,6 +21,7 @@ public class ArraysNotes {
 
     /**
      * Show an array with ints
+     *
      * @param array the array
      */
     public static void showIntArray(int[] array) {
@@ -31,6 +33,7 @@ public class ArraysNotes {
 
     /**
      * Sort an array of ints
+     *
      * @param array the array to be sorted
      */
     public static void sortIntArray(int[] array) {
@@ -39,6 +42,7 @@ public class ArraysNotes {
 
     /**
      * Sort an array of Strings
+     *
      * @param array the array to be sorted
      */
     public static void sortStringArray(String[] array) {
